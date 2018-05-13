@@ -1,5 +1,14 @@
-# Internet Programming: Design Project Assignment
+# Internet Programming: InKitchen Blog
 
-Find `ip_design_project.pdf` file in this folder, and refer to all the instructions given there. 
+Islombek Salimov          U1610083
 
-You have to submit your project into this repository before 06.05.2018.
+Islom Babaev              U1610081
+
+Laziza Nasridinova        U1610124
+
+Igor Tsoy                 U1610077
+
+Vadim Kim                 U1610251
+
+Khudyorkhon Mirjalolov    U1610109
+
