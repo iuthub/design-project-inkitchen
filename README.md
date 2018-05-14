@@ -1,4 +1,4 @@
-# Internet Programming: InKitchen Blog
+InKitchen Blog
 
 Islombek Salimov          U1610083
 
@@ -11,4 +11,6 @@ Igor Tsoy                 U1610077
 Vadim Kim                 U1610251
 
 Khudyorkhon Mirjalolov    U1610109
+
+WEB-SITE: http://inkitchen.tw1.ru/
 
